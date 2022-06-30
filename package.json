@@ -1,0 +1,12 @@
+{
+  "name": "api-movie",
+  "version": "0.0.1",
+  "description": "A movie website with themoviedb api",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ignacio Gimenez <ignagimenez10@gmail.com>",
+  "license": "MIT"
+}
